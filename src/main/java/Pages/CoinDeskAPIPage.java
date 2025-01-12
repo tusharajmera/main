@@ -6,12 +6,8 @@ import io.restassured.response.Response;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.Map;
-import java.util.Properties;
 
 import static io.restassured.RestAssured.given;
 
